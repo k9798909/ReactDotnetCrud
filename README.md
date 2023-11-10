@@ -1,4 +1,4 @@
-# ReactNetLab1
+# ReactDotnetCrud
 
 前後端分離的項目，實現簡單的新增、修改和刪除功能。前端使用 React 框架，後端則使用 .NET Web API。
 
